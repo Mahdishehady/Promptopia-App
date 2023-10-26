@@ -1,4 +1,15 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Promptopia
+
+Promptopia is AI prompting fullstack tool for the modern world. It provides users with the ability to discover, create, and share creative prompts to inspire their writing, brainstorming sessions, and creative projects.
+
+
+## Features
+
+- **Authentication with Google:** Users can sign in to Promptopia using their Google accounts, ensuring a secure and hassle-free login process.
+- **Create, Edit, and Delete Posts:** Once logged in, users can create new prompts, edit existing ones, or delete prompts they no longer wish to keep. This gives them complete control over their prompt collection.
+- **User Profiles:** Each user has their own profile page where they can showcase their created prompts. Other users can visit these profile pages to view and gain inspiration from the prompts shared by that user.
+- **Search Functionality:** The main page of Promptopia allows users to search for prompts using keywords, tags, or usernames. This feature makes it easier for users to discover prompts related to specific themes or topics.
+- **Copy Prompt Text:** A handy button allows users to copy the text of a prompt with a single click. This makes it convenient to paste the prompt into an AI tool or any other writing platform.
 
 ## Getting Started
 
